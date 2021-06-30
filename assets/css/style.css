@@ -949,6 +949,12 @@ form .alert {
   .carousel-home .carousel-subtitle {
     font-size: 16px;
   }
+  .carousel-home .carousel-caption {
+    text-shadow: 0.4px 0.4px rgb(95, 94, 94);
+  }
+  .carousel-home .carousel-title {
+    text-shadow: 0.8px 0.8px rgb(95, 94, 94);
+  }
   .carousel-home .carousel-control {
     background: #1f76bd;
     height: 40px;
