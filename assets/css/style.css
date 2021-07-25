@@ -40,8 +40,7 @@ a:hover, a:focus, a:active {
 }
 
 .navbar-top {
-  background-color: #439b4d;
-  background-image: linear-gradient(120deg, #439b4d 0%, #275539 74%);
+  background: /*#266A2E*//*#228b22*/#3A5F0B;
   font-size: 12px;
   padding: 3px 0;
 }
@@ -58,8 +57,7 @@ a:hover, a:focus, a:active {
 .navbar-main {
   margin-bottom: 0px;
   color: #fff;
-  background-color: #42b49b;
-  background-image: linear-gradient(45deg, #42b49b 0%, #60d151 74%);
+  background: #266A2E/*#228b22*//*#3A5F0B*//*#1f76bd*/;
 }
 .navbar-main .navbar-brand {
 	height : 0px;
@@ -202,9 +200,8 @@ a:hover, a:focus, a:active {
   background-size: 100%;
   background-image: -moz-linear-gradient(290deg, green -25%, green 50%, green 125%);
   background-image: -webkit-linear-gradient(290deg, green -25%, green 50%, green 125%);
-  background-color: #42b49b;
-  background-image: linear-gradient(315deg, #42b49b 0%, #60d151 74%);
-  
+  background-image: linear-gradient(160deg, green/*#115b9b*/ -25%, green 50%, green 125%);
+  color: #fff;
 }
 .about-us-col .col-icon-wrapper {
   min-height: 80px;
@@ -383,14 +380,12 @@ a:hover, a:focus, a:active {
 /* footer 
 ================================= */
 .footer-top {
-  background-color: #439b4d;
-  background-image: linear-gradient(120deg, #439b4d 0%, #275539 74%);
+  background: green/**//*#115c9b*/;
   height: 40px;
 }
 
 .main-footer {
-  background-color: #42b49b;
-  background-image: linear-gradient(315deg, #42b49b 0%, #60d151 74%);
+  background: #228b22;
   color: #fff;
 }
 .main-footer .footer-main {
@@ -1337,10 +1332,9 @@ li.dropdown {
 }
 
 .button1 {
-    background-color: #439b4d;
-    background-image: linear-gradient(120deg, #439b4d 0%, #275539 74%); 
+  background-color: #4CAF50; 
     color: black; 
-    border: 2px solid #439b4d;
+    border: 2px solid #4CAF50;
     border-radius: 6px;
 }
 
